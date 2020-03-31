@@ -1,6 +1,6 @@
 # Ironhack Data Analytics Bootcamp
 
-Inspired by my collegue: @ [Ricardo Zacarias](https://github.com/ricardozacarias)
+Inspired by my collegue: [Ricardo Zacarias](https://github.com/ricardozacarias)
 
 This repo contains all of the practical exercises I did during the Data Analytics Bootcamp @ [Ironhack](https://www.ironhack.com/en/data-analytics). The entire course lasted for 9 weeks (20-Jan, 20-March 2020) with an additional career week. It was divided into 3 modules:
 
