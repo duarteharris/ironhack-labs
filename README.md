@@ -10,6 +10,10 @@ This repo contains all of the practical exercises I did during the Data Analytic
 
 3. ###### Machine Learning;
 
+# Projects
+| Mod/Week | Project                                                          | Language                   | Libraries                                                    | Topics/Methods                                               |
+| -------- | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| M1-W3    | [Covid-19 & Global Awareness](https://github.com/duarteharris/ironhack-labs/tree/master/M1-W3-project-data-thieves) | Python                     | pandas, geopandas, geoplot                                   | data from kaggle survey and web scraping to analyze the best countries in the world to work in data jobs (quality of life, number of offers and average salaries) |
 
 
 # Lab Index
@@ -41,7 +45,6 @@ In the table below is an index of each exercise ordered by bootcamp module and w
 | M1-W3    | [advanced-regex](https://github.com/duarteharris/ironhack-labs/tree/master/M1-W3-advanced-regex) | Python                     | re                                                           | re.findall, re.sub,                                          |
 | M1-W3    | [matplotlib-seaborn](https://github.com/duarteharris/ironhack-labs/tree/master/M1-W3-matplotlib-seaborn) | Python                     | matplotlib.pyplot, seaborn, numpy, pandas                    | plt.plot, plt.show, plt.subplots, plt.legend, plt.bar, plt.barh, plt.pie, plt.boxplot, plt.xticks, ax.set_title, ax.set_xlabel, sns.set, sns.distplot, sns.barplot, sns.despine, sns.violinplot, sns.catplot, sns.heatmap, np.linspace, pd.select_dtypes, pd.Categorical, df.cat.codes, np.triu, sns.diverging_palette |
 | M1-W3    | [pandas-deep-dive](https://github.com/duarteharris/ironhack-labs/tree/master/M1-W3-pandas-deep-dive) | Python                     | pandas                                                       | df.describe, df.groupby.agg, df.apply                        |
-| M1-W3    | [project-data-thieves](https://github.com/duarteharris/ironhack-labs/tree/master/M1-W3-project-data-thieves) | Python                     | pandas, geopandas, geoplot                                   | data from kaggle survey and web scraping to analyze the best countries in the world to work in data jobs (quality of life, number of offers and average salaries) |
 | M2-W4    | [subsetting-and-descriptive-stats](https://github.com/duarteharris/ironhack-labs/tree/master/M2-W4-subsetting-and-descriptive-stats) | Python                     | pandas, matplotlib, seaborn                                  | df.loc, df.groupby.agg, df.quantile, df.describe,            |
 | M2-W4    | [understanding-descriptive-stats](https://github.com/duarteharris/ironhack-labs/tree/master/M2-W4-understanding-descriptive-stats) | Python                     | pandas, random, matplotlib, numpy                            | random.choice, plt.hist, plt.vlines, np.mean, np.std         |
 | M2-W4    | [regression-analysis](https://github.com/duarteharris/ironhack-labs/tree/master/M2-W4-regression-analysis) | Python                     | numpy, pandas, scipy, sklearn.linear_model, matplotlib, seaborn | plt.scatter, df.corr, scipy.stats.linregress, sns.heatmap, sklearn.LinearRegression, lm.fit, lm.score, lm.coef_, lm.intercept |
