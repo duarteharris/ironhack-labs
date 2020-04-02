@@ -13,7 +13,7 @@ This repo contains all of the practical exercises I did during the Data Analytic
 # Projects
 | Mod/Week | Project                                                          | Language                   | Libraries                                                    | Topics/Methods                                               |
 | -------- | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| M1-W3    | [Covid-19 & Global Awareness](https://github.com/duarteharris/ironhack-labs/tree/master/M1-W3-project-data-thieves) | Python                     | pandas, geopandas, geoplot                                   | data from kaggle survey and web scraping to analyze the best countries in the world to work in data jobs (quality of life, number of offers and average salaries) |
+| M1-W3    | [Covid-19 & Global Awareness](https://github.com/duarteharris/ironhack-labs/tree/master/M1-W3-project-data-thieves) | Python                     | regex, os, numpy, pandas, requests, getpass, GetOldTweets3, csv, tweepy, wordcloud, matplotlib, seaborn                                  | Team project with [Ana Frias](https://github.com/japana26) and [Tristan Piat](https://github.com/pengtianan). We collected data from Johns Hopkins University, scrapped the Twitter activity of the World Health Organization (WHO) user account, collected data from Google trends and the Chinese National Health Center data and analysed the relationship between them. |
 
 
 # Lab Index
